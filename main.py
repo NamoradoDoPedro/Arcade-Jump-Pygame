@@ -9,7 +9,7 @@ class WindowInfo:
     def __init__(self):
         self.Dimension = vec(600,300)                               
 
-Acceleration = 0.45
+Acceleration = 0.50
 Friction = -0.10
 FPS = 60
  
